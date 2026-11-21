@@ -1,0 +1,4 @@
+// Constantes y comentarios
+texto @saludo := "Hola";
+decimal @precio := 12.5;
+booleano @activo := verdadero;

@@ -1,0 +1,4 @@
+funcion entero @doble(entero @valor) inicio ->
+    entero @resultado := @valor * 2;
+    retornar @resultado;
+<- fin

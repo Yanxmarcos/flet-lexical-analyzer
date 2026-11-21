@@ -1,0 +1,2 @@
+entero @total := 7;
+escribir(@total?);
